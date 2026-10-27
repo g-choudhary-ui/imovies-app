@@ -8,7 +8,7 @@
 
 - **Live Frontend Application**: [http://localhost:5173](http://localhost:5173)
 - **RESTful API Backend & Health**: [http://localhost:5000/api/system/health](http://localhost:5000/api/system/health)
-- **GitHub Repository**: [https://github.com/imovies-cinemas/imovies-ticket-booking](https://github.com/imovies-cinemas/imovies-ticket-booking)
+- **GitHub Repository**: [https://github.com/g-choudhary-ui/imovies-app](https://github.com/g-choudhary-ui/imovies-app)
 
 ---
 
