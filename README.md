@@ -6,8 +6,8 @@
 
 ## 🌟 Demo & GitHub Links
 
-- **Live Frontend Application**: [http://localhost:5173](http://localhost:5173)
-- **RESTful API Backend & Health**: [http://localhost:5000/api/system/health](http://localhost:5000/api/system/health)
+- **Live Deployed Application**: [https://imovies-app-vd75.onrender.com](https://imovies-app-vd75.onrender.com)
+- **RESTful API Backend & Health**: [https://imovies-app-vd75.onrender.com/api/system/health](https://imovies-app-vd75.onrender.com/api/system/health)
 - **GitHub Repository**: [https://github.com/g-choudhary-ui/imovies-app](https://github.com/g-choudhary-ui/imovies-app)
 
 ---
