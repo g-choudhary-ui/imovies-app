@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = import.meta.env.VITE_API_URL || (window.location.port === '5173' ? 'http://localhost:5000/api' : '/api');
 
 const getHeaders = () => {
   const token = localStorage.getItem('imovies_token');
